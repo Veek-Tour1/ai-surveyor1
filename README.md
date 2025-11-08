@@ -1,4 +1,4 @@
-# Hi there, I'm <Victor>
+# Hi there, I'm Victor
 ### Cybersecurity Enthusiast | Building a safer internet
 
 I'm a beginner in cybersecurity, exploring web application security, ethical hacking, and digital forensics.  
